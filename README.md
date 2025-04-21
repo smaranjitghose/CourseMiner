@@ -23,8 +23,15 @@ An intelligent web scraping tool that automatically extracts and visualizes cour
 
 ## 🖼️ Demo
 
-![Interface](./assets/demo_1.png)
-![Output](./assets/demo_2.png)
+- **Grabbing course data from NPTEL (22nd April, 2025)**
+![NPTEL](./assets/v1_2_1.png)
+
+- **Grabbing course data from deeplearning.ai (22nd April, 2025)**
+![Deeplearning.ai 1](./assets/v1_1.png)
+
+- **Grabbing course data from deeplearning.ai with context (22nd April, 2025)**
+![Deeplearning.ai 2](./assets/v1_1_2.png)
+
 
 ## 🔧 Prerequisites
 

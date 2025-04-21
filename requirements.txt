@@ -1,0 +1,6 @@
+openai==1.21.0
+playwright==1.42.0
+pydantic==2.5.3
+nest-asyncio==1.6.0
+ipython==8.14.0
+python-dotenv==1.0.0

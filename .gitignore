@@ -1,0 +1,92 @@
+# Virtual Environment
+env/
+venv/
+ENV/
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+notebook/.ipynb_checkpoints/
+.jupyter/
+
+# Testing
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+.env
+.venv
+.python-version
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Playwright
+node_modules/
+**/test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Project specific
+screenshots/
+error_screenshot.png
+output/
+data/
+logs/
+temp/
+
+# API keys and secrets
+api_keys.txt
+secrets.yaml
+config.json
+credentials.json
+
+# Large files
+*.csv
+*.xls
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi

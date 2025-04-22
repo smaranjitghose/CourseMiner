@@ -6,7 +6,7 @@
 [![Playwright](https://img.shields.io/badge/Playwright-Web%20Testing-red.svg)](https://playwright.dev/)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)](https://github.com/smaranjitghose/CourseMiner)
 
-An intelligent web scraping tool that automatically extracts and visualizes course information from educational websites using OpenAI's GPT models.
+An intelligent web agent that automatically extracts and visualizes course information from educational websites using OpenAI's GPT models.
 
 ## 🌟 Features
 
